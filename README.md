@@ -95,3 +95,17 @@ Este projeto configura um cluster Redis de 6 nós utilizando o Docker Compose. O
 #### O resultado esperado será:
 
     "kd6"
+
+# Imagens para melhor visualização do tutorial
+### Visualização do Cluster
+![Arquitetura do Redis Cluster](img/02.png)
+### Subindo o Cluster
+![Arquitetura do Redis Cluster](img/03.png)
+![Arquitetura do Redis Cluster](img/04.png)
+![Arquitetura do Redis Cluster](img/05.png)
+### Interface Cluster Redis
+![Arquitetura do Redis Cluster](img/06.png)
+![Arquitetura do Redis Cluster](img/07.png)
+![Arquitetura do Redis Cluster](img/08.png)
+![Arquitetura do Redis Cluster](img/09.png)
+![Arquitetura do Redis Cluster](img/10.png)
