@@ -1,6 +1,6 @@
 
 # Cluster Redis
-
+[![Databases](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 
 ### Descrição do Projeto: Redis Cluster com RedisInsight para Gerenciamento
 
